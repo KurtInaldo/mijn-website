@@ -1,0 +1,47 @@
+h1 {
+    color: black;
+    font-size: xx-large;
+    width: 50px;
+    height: 50px;
+    font-family: monospace;
+    text-align: center;
+    
+}
+
+h2 {
+    color: red;
+    font-size: larger;
+    cursor: grab;
+    background-color: bisque;
+    font-family: monospace;
+    text-align: left;
+
+}
+
+body {
+    background-color: bisque;
+}
+
+div {
+    color: black;
+    font-size: x-large;
+    cursor: grab;
+    background-color: bisque;
+    font-family: monospace;
+    text-align: left;
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+h4 {
+    height: 5px;
+}
+
+
+

@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    font-size: xx-large;
+    font-family: monospace;
+    cursor: grab;
+    text-align: left;
+    height: 50px;
+
+    
+
+}
+
+div {
+    color: salmon;
+    cursor: grab;
+    background-color: antiquewhite;
+    font-family: monospace;
+    text-align: left;
+    
+}
+
+h1 {
+    border-bottom: 3px solid black;
+}
+
+h2 {
+    border-bottom: 3px solid black;
+    height: 100px;
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
